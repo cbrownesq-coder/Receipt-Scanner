@@ -1,0 +1,25 @@
+{
+  "name": "Receipt Scanner",
+  "short_name": "Receipts",
+  "description": "2-Click mobile receipt scanner for Dominion Energy, Hustle Ridge, and Long Ridge Capital.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
